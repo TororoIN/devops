@@ -35,7 +35,7 @@ git push https: ……. master
   3
 CREATE A NEW BRANCH
 ```
-git branch suer-branch
+git branch user-branch
 ```
 
 DISPLAY ALL BRANCHES
